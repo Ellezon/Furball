@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 46c0a6bbb9c176f4da7b63cb0d9b92de
+timeCreated: 1458307012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EVIL FURRY_0
+    21300002: EVIL FURRY_1
+    21300004: EVIL FURRY_2
+    21300006: EVIL FURRY_3
+    21300008: EVIL FURRY_4
+    21300010: EVIL FURRY_5
+    21300012: EVIL FURRY_6
+    21300014: EVIL FURRY_7
+    21300016: EVIL FURRY_8
+    21300018: EVIL FURRY_9
+    21300020: EVIL FURRY_10
+    21300022: EVIL FURRY_11
+    21300024: EVIL FURRY_12
+    21300026: EVIL FURRY_13
+    21300028: EVIL FURRY_14
+    21300030: EVIL FURRY_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spriteBorder: {x: 246, y: 0, z: 0, w: 249}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EVIL FURRY_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 808
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.5, y: 88}
+        - {x: -67.5, y: 88}
+        - {x: -84.5, y: 78}
+        - {x: -84.5, y: -61}
+        - {x: -77.5, y: -88}
+        - {x: 56.5, y: -88}
+        - {x: 84.5, y: -61}
+        - {x: 84.5, y: 55}
+        - {x: 83.5, y: 59}
+    - name: EVIL FURRY_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 808
+        width: 171
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 88}
+        - {x: -39.5, y: 84}
+        - {x: -83.5, y: 50}
+        - {x: -85.5, y: 42}
+        - {x: -85.5, y: -53}
+        - {x: -40.5, y: -88}
+        - {x: 41.5, y: -88}
+        - {x: 51.5, y: -83}
+        - {x: 85.5, y: -58}
+        - {x: 85.5, y: 78}
+        - {x: 69.5, y: 88}
+    - name: EVIL FURRY_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 808
+        width: 167
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 88.5}
+        - {x: -5.5, y: 88.5}
+        - {x: -54.5, y: 81.5}
+        - {x: -83.5, y: 42.5}
+        - {x: -83.5, y: -54.5}
+        - {x: -65.5, y: -82.5}
+        - {x: -25.5, y: -88.5}
+        - {x: 26.5, y: -88.5}
+        - {x: 70.5, y: -72.5}
+        - {x: 83.5, y: -55.5}
+        - {x: 83.5, y: 70.5}
+    - name: EVIL FURRY_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 810
+        width: 177
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.5, y: 82}
+        - {x: 60.5, y: 87}
+        - {x: -43.5, y: 87}
+        - {x: -68.5, y: 77}
+        - {x: -88.5, y: 23}
+        - {x: -88.5, y: -24}
+        - {x: -59.5, y: -83}
+        - {x: -36.5, y: -87}
+        - {x: 33.5, y: -87}
+        - {x: 53.5, y: -82}
+        - {x: 84.5, y: -67}
+        - {x: 84.5, y: 62}
+      - - {x: 85.5, y: -23}
+        - {x: 87.5, y: -25}
+        - {x: 88.5, y: -25}
+        - {x: 88.5, y: -20}
+        - {x: 86.5, y: -20}
+    - name: EVIL FURRY_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 554
+        width: 163
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 84.5}
+        - {x: -63.5, y: 64.5}
+        - {x: -63.5, y: 61.5}
+        - {x: -72.5, y: 47.5}
+        - {x: -81.5, y: 29.5}
+        - {x: -81.5, y: -26.5}
+        - {x: -78.5, y: -42.5}
+        - {x: -61.5, y: -62.5}
+        - {x: -24.5, y: -84.5}
+        - {x: 78.5, y: -84.5}
+        - {x: 81.5, y: -78.5}
+        - {x: 81.5, y: 77.5}
+        - {x: 69.5, y: 84.5}
+      - - {x: 62.5, y: -72.5}
+        - {x: 64.5, y: -74.5}
+        - {x: 66.5, y: -74.5}
+        - {x: 68.5, y: -72.5}
+        - {x: 65.5, y: -67.5}
+        - {x: 62.5, y: -68.5}
+      - - {x: -77.5, y: -33.5}
+        - {x: -75.5, y: -35.5}
+        - {x: -72.5, y: -34.5}
+        - {x: -72.5, y: -31.5}
+        - {x: -74.5, y: -29.5}
+        - {x: -77.5, y: -30.5}
+    - name: EVIL FURRY_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 557
+        width: 150
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 88.5}
+        - {x: -55, y: 76.5}
+        - {x: -75, y: 22.5}
+        - {x: -75, y: -65.5}
+        - {x: -71, y: -79.5}
+        - {x: -45, y: -88.5}
+        - {x: 43, y: -88.5}
+        - {x: 75, y: -25.5}
+        - {x: 75, y: 83.5}
+        - {x: 59, y: 88.5}
+    - name: EVIL FURRY_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 558
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 91.5}
+        - {x: -19.5, y: 91.5}
+        - {x: -63.5, y: 58.5}
+        - {x: -74.5, y: 39.5}
+        - {x: -74.5, y: -61.5}
+        - {x: -50.5, y: -91.5}
+        - {x: 27.5, y: -91.5}
+        - {x: 53.5, y: -63.5}
+        - {x: 74.5, y: -12.5}
+        - {x: 74.5, y: 58.5}
+    - name: EVIL FURRY_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 562
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 90.5}
+        - {x: -64, y: 61.5}
+        - {x: -64, y: 55.5}
+        - {x: -63, y: 52.5}
+        - {x: -74, y: 28.5}
+        - {x: -74, y: -40.5}
+        - {x: -38, y: -90.5}
+        - {x: 68, y: -90.5}
+        - {x: 74, y: -54.5}
+        - {x: 74, y: 90.5}
+    - name: EVIL FURRY_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 338
+        width: 159
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 76.5}
+        - {x: -67.5, y: 68.5}
+        - {x: -79.5, y: 40.5}
+        - {x: -79.5, y: -29.5}
+        - {x: -57.5, y: -73.5}
+        - {x: -29.5, y: -76.5}
+        - {x: 58.5, y: -76.5}
+        - {x: 79.5, y: -38.5}
+        - {x: 79.5, y: 54.5}
+        - {x: 63.5, y: 76.5}
+    - name: EVIL FURRY_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 343
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 74.5}
+        - {x: -54.5, y: 74.5}
+        - {x: -75.5, y: 49.5}
+        - {x: -75.5, y: -74.5}
+        - {x: 75.5, y: -74.5}
+        - {x: 75.5, y: 39.5}
+        - {x: 69.5, y: 73.5}
+    - name: EVIL FURRY_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 337
+        width: 154
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 79.5}
+        - {x: -63, y: 45.5}
+        - {x: -71, y: 27.5}
+        - {x: -71, y: 26.5}
+        - {x: -71, y: 28.5}
+        - {x: -72, y: 31.5}
+        - {x: -77, y: 33.5}
+        - {x: -77, y: -78.5}
+        - {x: -68, y: -79.5}
+        - {x: 67, y: -79.5}
+        - {x: 77, y: -66.5}
+        - {x: 77, y: 21.5}
+        - {x: 62, y: 79.5}
+    - name: EVIL FURRY_11
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 321
+        width: 165
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 92.5}
+        - {x: -82.5, y: 66.5}
+        - {x: -82.5, y: -63.5}
+        - {x: -73.5, y: -92.5}
+        - {x: 28.5, y: -92.5}
+        - {x: 78.5, y: -76.5}
+        - {x: 78.5, y: 20.5}
+        - {x: 42.5, y: 92.5}
+      - - {x: 79.5, y: -30.5}
+        - {x: 81.5, y: -32.5}
+        - {x: 82.5, y: -32.5}
+        - {x: 82.5, y: -27.5}
+        - {x: 80.5, y: -27.5}
+    - name: EVIL FURRY_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 66
+        width: 170
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 87}
+        - {x: -79, y: 55}
+        - {x: -85, y: 6}
+        - {x: -85, y: -33}
+        - {x: -68, y: -87}
+        - {x: 70, y: -87}
+        - {x: 80, y: -69}
+        - {x: 80, y: 0}
+        - {x: 37, y: 87}
+      - - {x: 82, y: -39}
+        - {x: 84, y: -41}
+        - {x: 85, y: -41}
+        - {x: 85, y: -36}
+        - {x: 83, y: -36}
+    - name: EVIL FURRY_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 55
+        width: 156
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 89.5}
+        - {x: -76, y: 64.5}
+        - {x: -78, y: 50.5}
+        - {x: -78, y: -46.5}
+        - {x: -64, y: -89.5}
+        - {x: 70, y: -89.5}
+        - {x: 78, y: -81.5}
+        - {x: 78, y: 13.5}
+        - {x: 48, y: 89.5}
+    - name: EVIL FURRY_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 53
+        width: 158
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 97.5}
+        - {x: -79, y: 80.5}
+        - {x: -79, y: -74.5}
+        - {x: -57, y: -97.5}
+        - {x: 72, y: -97.5}
+        - {x: 79, y: -81.5}
+        - {x: 79, y: 6.5}
+        - {x: 33, y: 97.5}
+    - name: EVIL FURRY_15
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 54
+        width: 152
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 96}
+        - {x: 33, y: 97}
+        - {x: -64, y: 97}
+        - {x: -76, y: 74}
+        - {x: -76, y: -41}
+        - {x: -68, y: -97}
+        - {x: 72, y: -97}
+        - {x: 76, y: -87}
+        - {x: 76, y: 0}
+        - {x: 72, y: 9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
