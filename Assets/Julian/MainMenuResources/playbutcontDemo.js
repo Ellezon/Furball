@@ -1,6 +1,6 @@
 ﻿#pragma strict
 
-var Furry: GameObject;
+var GameObject Furry;
 
 function OnMouseEnter()
 {	//Debug.Log("mouse enter");
